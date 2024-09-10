@@ -17,10 +17,11 @@ hero:
 
 features:
   - title: Blogs
-    details: Some cool blogs you'll write this semester!
+    details: Click here to view blog posts from this semester
     link: /blogs
   - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+    details: Click here to view assignment submissions for this semester
+    link: /assignments
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    details: Small bio to come soon
 ---

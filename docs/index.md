@@ -3,9 +3,10 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Claire Adoración Lorenzo"
+  text: "Portfolio"
+  tagline: "6.104 - Fall 2024"
+  base: "/portfolio-clorenzo/"
   actions:
     - theme: brand
       text: Template Repository

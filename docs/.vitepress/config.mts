@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Claire Adoración Lorenzo",
+  title: "Claire Adoración Lorenzo - Portfolio",
   description: "6.1040 Fall 2023",
   // TODO: add your base here; this should be your repo name!
   // base: "/<REPO_NAME>/",

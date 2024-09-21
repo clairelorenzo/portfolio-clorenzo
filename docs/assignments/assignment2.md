@@ -15,11 +15,12 @@ The name for my app would be Glow, to reflect the wellness/positivity aspect of 
 ### Image 1: Adding event to calendar
 
 ![](../images/add_calendar.png){:width='500'}
+<br>
 
 This feature is coming from outlook mail and outlook calendar, where you are prompted to add an event to your calendar when someone invites you to an event. This could be helpful to my brainstorming because I had not considered actually having people send social event invites through my app . If an other user is inviting people to a social event on Glow, there could be an option to simply add it to the productivity schedule of the day, which could sync to a linked calendar app if applicable.
 \
 ### Image 2: Current time line in calendar day view
-![](../images/calendar.png){:width='300'}
+![](../images/calendar.png){:width='300'}``
 
 This is coming from the google calendar, where you can see all the events you have for the day in one screen, with a line at the time where we are currently at, so we can track what is coming up next. This could be helpful for the productivity tracking side of my app, where I would want a tab with a calendar like view of events to reduce distractions during these events and set reminders / usage limits.
 
@@ -92,7 +93,7 @@ Design Response: Add features that prioritize personal relationships, like the m
 #### Values
 Value Tensions – Autonomy vs. Accountability
 Observation: Autonomy in setting focus timers might conflict with the desire to be held accountable by friends or family. For instance, a user may not want others to know they’ve overridden their focus sessions.
-Design Response: Provide optional transparency where users can choose if friends can see their focus override activity, balancing accountability and personal autonomy.
+Design Response: Provide optional transparency where users can choose if friends can see their focus override activity, balancing accountability and personal autonomy.``
 
 
 

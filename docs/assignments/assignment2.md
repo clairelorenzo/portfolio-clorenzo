@@ -14,17 +14,17 @@ The name for my app would be Glow, to reflect the wellness/positivity aspect of 
 
 ### Image 1: Adding event to calendar
 
-![](./images/add_calendar.png){:width='500'}
+![](../images/add_calendar.png){:width='500'}
 
 This feature is coming from outlook mail and outlook calendar, where you are prompted to add an event to your calendar when someone invites you to an event. This could be helpful to my brainstorming because I had not considered actually having people send social event invites through my app . If an other user is inviting people to a social event on Glow, there could be an option to simply add it to the productivity schedule of the day, which could sync to a linked calendar app if applicable.
 \
 ### Image 2: Current time line in calendar day view
-![](./images/calendar.png){:width='300'}
+![](../images/calendar.png){:width='300'}
 
 This is coming from the google calendar, where you can see all the events you have for the day in one screen, with a line at the time where we are currently at, so we can track what is coming up next. This could be helpful for the productivity tracking side of my app, where I would want a tab with a calendar like view of events to reduce distractions during these events and set reminders / usage limits.
 
 ### Image 3: Direct messages, Instagram
-![](./images/dm.png){:width='300'}
+![](../images/dm.png){:width='300'}
 I like instagram DMs because it is very clear which conversations are opened, which are not, and how many messages you have to catch up on. I think having a feed for each group chat would be very cool (on top of having messages and posts sent), could be a separate icon on each conversation, but would have to brainstorm more on how exactly that would work.
 
 ### Image 4: Creating a new event
@@ -32,15 +32,15 @@ I like instagram DMs because it is very clear which conversations are opened, wh
 This is once again coming from the google calendar app, I would want to be able to add times (even if a calendar has been synced) where I do not want to be be scrolling on social media, with a name for the event/time, a length of time (start time, end time), and any additional comments or special features during this time (maybe allowed to only get notifications from certain people, etc)
 
 ### Image 5: Different Feeds
-![](./images/feeds.png){:width='300'}
+![](../images/feeds.png){:width='300'}
 This is coming from TikTok. In this photo, you can see that you can select three different feeds: Following, Explore, and For You. To improve positivity on the app, I am considering maybe having several feeds for different moods, or potentially just having a mood selector that prompts you to input how you feel, and based on how you classified certain posts on how they made you feel previously, would suggest content. Also maybe could scroll through feeds that are shared with other people in this way to increase connection with other users?
 
 ### Image 6: Saving posts into collections
-![](./images/ig_collections.png){:width='300'}
+![](../images/ig_collections.png){:width='300'}
 I love the Instagram feature where you can save posts into different collections, would also be nice to be able to have a review button similar to the save button on instagram, where you could classify posts on how they make you feel (don't want to see content like this, love content like this, content that makes me feel motivated, content that makes me happy, sad, etc) for the mood-based feed functionality.
 
 ### Image 7: Thoughts / Goals
-![](./images/thoughts.jpg){:width='300'}
+![](../images/thoughts.jpg){:width='300'}
 I don't like instagram thoughts, but I like that they are above the messages. At the top of the messages view, there could be a goals tab to click on, where you could go into a list of people's goals for the day (if they are sharing with you), explained in the feature brainstorming.
 
 ## Brainstorming feature ideas
@@ -98,4 +98,4 @@ Design Response: Provide optional transparency where users can choose if friends
 
 ### Storyboarding and sketching
 
-![](./images/flow.jpg){:width='600'}
+![](../images/flow.jpg){:width='600'}

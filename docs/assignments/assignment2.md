@@ -99,4 +99,4 @@ Design Response: Provide optional transparency where users can choose if friends
 
 ### Storyboarding and sketching
 
-<!-- ![](./flow1.jpg){:width='600'} -->
+![](./flow1.png){:width='600'}

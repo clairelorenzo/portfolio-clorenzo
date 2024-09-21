@@ -14,7 +14,7 @@ The name for my app would be Glow, to reflect the wellness/positivity aspect of 
 
 ### Image 1: Adding event to calendar
 
-![](./add_calendar.png){:width='500'}
+<!-- ![](./add_calendar.png){:width='500'} -->
 <br>
 
 This feature is coming from outlook mail and outlook calendar, where you are prompted to add an event to your calendar when someone invites you to an event. This could be helpful to my brainstorming because I had not considered actually having people send social event invites through my app . If an other user is inviting people to a social event on Glow, there could be an option to simply add it to the productivity schedule of the day, which could sync to a linked calendar app if applicable.

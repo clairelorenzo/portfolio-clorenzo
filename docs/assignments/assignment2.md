@@ -25,7 +25,7 @@ This feature is coming from outlook mail and outlook calendar, where you are pro
 This is coming from the google calendar, where you can see all the events you have for the day in one screen, with a line at the time where we are currently at, so we can track what is coming up next. This could be helpful for the productivity tracking side of my app, where I would want a tab with a calendar like view of events to reduce distractions during these events and set reminders / usage limits.
 
 ### Image 3: Direct messages, Instagram
-![](../images/dm1.png){:width='300'}
+![](./dm1.png){:width='300'}
 I like instagram DMs because it is very clear which conversations are opened, which are not, and how many messages you have to catch up on. I think having a feed for each group chat would be very cool (on top of having messages and posts sent), could be a separate icon on each conversation, but would have to brainstorm more on how exactly that would work.
 
 ### Image 4: Creating a new event

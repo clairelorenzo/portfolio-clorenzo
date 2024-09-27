@@ -17,25 +17,25 @@ With a focus on meaningful interaction and personal growth, Glow empowers users 
 
 ## Functional Design
 ### Concept 1 : Adding / Removing Friends 
-Users can look up other users and add them as friends so that they can see each other's posts and goals, as well as (potentially) message each other. They would do this by clicking a search bar, typing in a username, clicking their profile, and clicking "Add friend".
+Users can look up other users and add them as friends so that they can see each other's posts and goals, as well as (potentially) message each other. They would do this by clicking a search bar, typing in a username, clicking their profile, and clicking "Add friend", removing a friend is done in the exact same manner, by clicking "remove friend" (add button is replaced by remove button upon friend being added, and vice versa). Depends on user being logged in, and removing friends depends on friend having been added beforehand.
 ### Concept 2 : Image Posting
 
-Users can post images or other content to their profile by selecting the content from their laptop or phone (depending where the app is being used). Theyb do this by selecting the + operator on the screen, selecting selecting a photo from their personal images on their device, adding a caption, and clicking post. Users can delete posts, similarly to how we saw in the most recent preparation material.
+Users can post images or other content to their profile by selecting the content from their laptop or phone (depending where the app is being used). They do this by selecting the + operator on the screen, selecting selecting a photo from their personal images on their device, adding a caption, and clicking post. Users can delete posts, similarly to how we saw in the most recent preparation material, and view posts by other users that they are friends with. Depends on user being logged in beforehand, and users being friends with each other.
 
 ### Concept 3 : Productivity Modes
-Users can switch between productivity modes, which are focus mode and social mode. In social mode, users can view all posts from friends and themselves, all goals from friends and themselves, their calendar and their messages (if implemented). In other words, they have full functionality implemented. In focus mode, they have an alert on their homepage indicating until what time they are in focus mode, and cannot see any posts. The only page that is visible is their calendar page. Users can either program these modes manually when adding individual events to their calendar, or through their settings. If messaging is included in the final implementation, settings also include who can message the user while they are in focus mode.
+Users can switch between productivity modes, which are focus mode and social mode. In social mode, users can view all posts from friends and themselves, all goals from friends and themselves, their calendar and their messages (if implemented). In other words, they have full functionality implemented. In focus mode, they have an alert on their homepage indicating until what time they are in focus mode, and cannot see any posts. The only page that is visible is their calendar page. Users can either program these modes manually when adding individual events to their calendar, or through their settings. If messaging is included in the final implementation, settings also include who can message the user while they are in focus mode. Setting productivity modes depends on user being logged in beforehand. If productivity mode is being set for a specific event, depends on the event being created in the calendar.
 
 ### Concept 4 : Calendar Integration
-Users can view their calendar for the day, and add events to their calendar for the day. When adding an event, they can choose a start time, end time, productivity mode for the event, a reminder, and if it is repeated.
+Users can view their calendar for the day, and add events to their calendar for the day. When adding an event, they can choose a start time, end time, productivity mode for the event, a reminder, and if it is repeated. Depends on the user being logged in; automatic events depend on calendar being synced (if this is implemented in final version).
 
 ### Concept 5 : Goal Setting 
-Users can set goals for themselves on the daily, and mark them as completed as the day goes on. The goals settings page counts how many have been completed that day and displays that to the user. These goals are public to friends, and friends can comment on these accomplishments for encouragement.
+Users can set goals for themselves on the daily, and mark them as completed as the day goes on. The goals settings page counts how many have been completed that day and displays that to the user. These goals are public to friends, and friends can comment on these accomplishments for encouragement. Goals can be deleted if they are not needed anymore. Creating and checking off goals depends on user being logged in, and checking off and deleting goals both depend on that goal being created.
 
 ### Concept 6 : User Authentification
-Users can create an account with a username and a password, and can connect a phone number or email to the account. Once the account is created, users can log into the account with their username and password, and log out if they have already logged in. Usernames are unique and cannot be used by several different users.
+Users can create an account with a username and a password, and can connect a phone number or email to the account. Once the account is created, users can log into the account with their username and password, and log out if they have already logged in. Usernames are unique and cannot be used by several different users. 
 
 ### Concept 7 : User Messaging (Unsure if I will implement)
-Users can message each other through the messaging page of the application, by clicking through a list of their friends and selecting the user they want to message. Users must be friends to message each other, and other users cannot view messages that two users are sending each other.
+Users can message each other through the messaging page of the application, by clicking through a list of their friends and selecting the user they want to message. Users must be friends to message each other, and other users cannot view messages that two users are sending each other. Depends on user being logged in and being friends with message recipient.
 
 ### Dependency Graph
 ![](./dependency_graph.png){:width='700'}

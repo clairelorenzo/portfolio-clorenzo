@@ -41,7 +41,7 @@ This is coming from TikTok. In this photo, you can see that you can select three
 I love the Instagram feature where you can save posts into different collections, would also be nice to be able to have a review button similar to the save button on instagram, where you could classify posts on how they make you feel (don't want to see content like this, love content like this, content that makes me feel motivated, content that makes me happy, sad, etc) for the mood-based feed functionality.
 
 ### Image 7: Thoughts / Goals
-<!-- ![](../thoughts.jpg){:width='300'} -->
+ ![](../thoughts1.png){:width='300'}
 I don't like instagram thoughts, but I like that they are above the messages. At the top of the messages view, there could be a goals tab to click on, where you could go into a list of people's goals for the day (if they are sharing with you), explained in the feature brainstorming.
 
 ## Brainstorming feature ideas

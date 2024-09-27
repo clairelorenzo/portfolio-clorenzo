@@ -64,8 +64,12 @@ In this wireframe, we see the settings page of the app. Here, the user can chang
 
 ## Design Tradeoffs
 
+### Tradeoff 1 - Adjusting feature list to type of audience
 One first design decision I made was weather to include more specific features that I like from other apps, like saving posts into collections, making feeds specific to group chats, and more. After feedback from A2, I ended up deciding to strip away some of this functionality and narrow down the group of people I am targeting and the goal of my app, which is now just an app to create a space for people to post about their day, their goals, and stay on track productivity wise, so my features are more limited than some other social media apps like Instagram, for example.\
+### Tradeoff 2 - Privacy of goals vs accountability
 A second design decision I made was whether to make the goal setting feature public or private. On the one hand, making it public and allowing people to comment on people’s goals could invite negativity if people have bad intentions, or make people feel bad about themselves if they are not accomplishing as much as other users/friends they are connected to. However, keeping in mind that one of the goals of my app is accountability and encouragement, and that it is a social media app, this is not really possible without having these goals and pictures public.\
+
+### Tradeoff 3 - Urgent usage of app vs productivity guarantee
 A third design decision I made was to what extent users should still be able to use the app during their time on focus mode. For instance, if focus mode is mistakenly enabled for a period of time, should they be able to change settings? Or if they just want to cancel the focus mode because they want to see what their friends are up to? The final design decision was made because of the goal of the app: to increase productivity. The only page that is available during focus mode is the calendar, so people cannot change out of focus mode until the scheduled end time. If people really need to be in touch with another user (if messaging is implemented), this can be done in the settings.This is done because in a lot of social media apps, time limits are way too easy to cancel and break, and since this is a productivity app this would go against the concept of the app.
 
 

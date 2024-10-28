@@ -35,3 +35,15 @@ layout: doc
 - I want my app to look as consistent and thorough as possible with cute details that will be repeated accross different pages.
 - I think this is reflected in my wireframes as I reused my logos, fonts, and colours.
 - I think this goes along with my goal of having the app being as pleasant to use visually as possible.
+
+## Visual Design Study
+
+![](./inspo_slide_purple.png){:width='600'}
+
+This first slide shows my color theme, which I wanted to be like a light purple, pastel theme with some darker accents. The central row of this slide especially show my inspiration for that. I also included some inspiration for the writing of the title of my app in the botton left, i wanted a shiny looking purple with a more calming tone, since this is a productivity app. I also liked the font on the two top right and botton images, but will not necessarily use them depending on how limited I am with consistency.
+![](./inspo_slide_bw.png){:width='600'}
+This second slide includes more technical elements. I like the simplicity and font of the to do list I included and how straightforward it was to understand since mapping and discoverability were two of my main heuristics. The v-calendar I also really like for the same reason of simplicity. The fonts I included are pretty for the pleasantness heuristic and also in my opinion calming, so that the goal of stress reducing productivity is achieved. Finally, I included some icons that I thought would work well with my navigation bar.
+
+## Deployment Challenges
+
+Since I used a 3rd party calendar packages and I have been having some personal issues (I emailed staff about this), I was not succesfully able to deploy my app, although it seems to work fine on my end. I spent a lot of time on this assignment so hopefully, the work I did can still be taken into account. So sorry for the inconvenience.

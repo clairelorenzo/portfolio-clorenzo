@@ -44,6 +44,10 @@ This first slide shows my color theme, which I wanted to be like a light purple,
 ![](./inspo_slide_bw.png){:width='600'}
 This second slide includes more technical elements. I like the simplicity and font of the to do list I included and how straightforward it was to understand since mapping and discoverability were two of my main heuristics. The v-calendar I also really like for the same reason of simplicity. The fonts I included are pretty for the pleasantness heuristic and also in my opinion calming, so that the goal of stress reducing productivity is achieved. Finally, I included some icons that I thought would work well with my navigation bar.
 
+## App Description
+
+I have a profile page, a goals page, a calendar page that shows events for the selected day, a settings page that can activate and deactivate focus mode.
+
 ## Deployment Challenges
 
 Since I used a 3rd party calendar packages and I have been having some personal issues (I emailed staff about this), I was not succesfully able to deploy my app, although it seems to work fine on my end. I spent a lot of time on this assignment so hopefully, the work I did can still be taken into account. So sorry for the inconvenience.
